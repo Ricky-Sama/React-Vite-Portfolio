@@ -118,20 +118,20 @@ const projectData = [
   {
     title: 'Reel-Tracks',
     description: 'Search any movie and the results will show you the corresponding soundtrack.',
-    demoUrl: 'https://wallpaperaccess.com/full/530366.jpg',
+    demoUrl: 'https://ricky-sama.github.io/Reel-Tracks/',
     githubUrl: 'https://github.com/Ricky-Sama/Reel-Tracks'
   },
   {
     title: 'Grab-My-Password',
     description: 'Store your password for your favorite websites',
-    demoUrl: 'https://wallpapercave.com/wp/wp1933134.jpg', 
+    demoUrl: 'https://grab-my-password-23e7faf05060.herokuapp.com/', 
     githubUrl: 'https://github.com/Ricky-Sama/Grab-My-Password'
   },
   {
-    title: 'PWA Text-Editor',
-    description: 'This PWA Text Editor will allow users to create notes or code snippets and run the application from their browser.',
-    demoUrl: 'https://c4.wallpaperflare.com/wallpaper/43/399/700/photography-camera-birds-animals-wallpaper-preview.jpg', 
-    githubUrl: 'https://github.com/Ricky-Sama/Progressive-Web-Application-Text-Editor'
+    title: 'Tech-Blog',
+    description: "This Tech Blog will allow users to publish their blog posts and comment on other developers' posts as well.",
+    demoUrl: 'https://rs-tech-blog-ff26cfc66031.herokuapp.com/', 
+    githubUrl: 'https://github.com/Ricky-Sama/Tech-Blog'
   },
   
 ];
