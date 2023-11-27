@@ -14,7 +14,7 @@
 * [License](#license)
 
 ## Usage
-Clone the repository, install the necessary dependencies (npm i webpack-cli), then run "npm run start" in the terminal. The application should open up in your browser. Enjoy!
+
 
 ## Mock-Up
 
@@ -34,6 +34,7 @@ Please click on the [link](https://rickysama-react-vite-app.netlify.app/) to vis
 N/A
 ## Credits
 Credit to [Pfrommer1982](https://github.com/Pfrommer1982/Complete_Portfolio) for providing portfolio template.
+https://lineicons.com/icons/ for icons.
 ## Testing
 N/A
 ## License

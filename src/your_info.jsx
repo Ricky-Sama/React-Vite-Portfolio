@@ -42,43 +42,43 @@ const categories = [
   {
     name: 'Web Development',
     icon: 'lni lni-code',
-    title: 'Photography',
+    title: 'MongoDB',
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas diam lorem, tempus at dapibus vitae, vehicula sit amet dui. Fusce at libero id massa ornare molestie sed eu tellus.",
+      "MongoDB is a popular, open-source, NoSQL database management system that stores data in a flexible, JSON-like format called BSON (Binary JSON). Unlike traditional relational database systems, MongoDB is designed to handle large amounts of unstructured or semi-structured data, making it particularly well-suited for certain types of applications.",
     skills: [
       {
-        icon: 'lni lni-camera',
+        icon: 'lni lni-database',
         title: 'HTML5',
       },
-      {
-        icon: 'lni lni-certificate',
-        title: 'CSS3',
-      },
-      {
-        icon: 'lni lni-instagram',
-        title: 'JavaScript',
-      },
+      // {
+      //   icon: 'lni lni-certificate',
+      //   title: 'CSS3',
+      // },
+      // {
+      //   icon: 'lni lni-instagram',
+      //   title: 'JavaScript',
+      // },
     ],
   },
   {
     name: 'Software',
     icon: 'lni lni-code',
-    title: 'Software',
+    title: 'Express.js and Node.js',
     description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas diam lorem, tempus at dapibus vitae, vehicula sit amet dui. Fusce at libero id massa ornare molestie sed eu tellus.",
+    "Node.js is the underlying runtime environment that executes JavaScript code on the server, while Express.js is a framework that runs on top of Node.js, providing a set of tools and conventions for building web applications and APIs using JavaScript. Both technologies contribute to the ability to create efficient and scalable server-side applications using JavaScript.",
     skills: [
       {
-        icon: 'lni lni-adobe',
+        icon: 'lni lni-javascript',
         title: 'adobe',
       },
-      {
-        icon: 'lni lni-code',
-        title: 'Code',
-      },
-      {
-        icon: 'lni lni-sketch',
-        title: 'Sketch'
-      },
+      // {
+      //   icon: 'lni lni-code',
+      //   title: 'Code',
+      // },
+      // {
+      //   icon: 'lni lni-sketch',
+      //   title: 'Sketch'
+      // },
      
       
     ],
@@ -86,21 +86,22 @@ const categories = [
   {
     name: 'brands',
     icon: 'lni lni-code',
-    title: 'Brands',
+    title: 'REACT',
     description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas diam lorem, tempus at dapibus vitae, vehicula sit amet dui. Fusce at libero id massa ornare molestie sed eu tellus.",
+    "React, often referred to as React.js or ReactJS, is an open-source JavaScript library for building user interfaces or UI components. It is developed and maintained by Facebook and a community of individual developers and companies. React is commonly used to build single-page applications where user interactions need to be dynamic and responsive.",
     skills: [
       {
-        icon: 'lni lni-pinterest',
+        icon: 'lni lni-react',
         title: 'Pinterest',
       },
-      {
-        icon: 'lni lni-crop',
-        title: 'Crop',
-      },
+      // {
+      //   icon: 'lni lni-crop',
+      //   title: 'Crop',
+      // },
       
     ],
   },
+  
   
 ];
 
