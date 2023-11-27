@@ -172,7 +172,7 @@ const aboutMeText = {
 
 const emailConfig = {
   serviceID: 'service_36kw6ok',
-  templateID: 'template_cmwyprd',
+  templateID: 'template_fdnq121',
   userID: 'WdJ6_yVUeO0yhAw0H',
 };
 
