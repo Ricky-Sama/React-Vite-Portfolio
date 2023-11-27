@@ -146,7 +146,7 @@ const projectData = [
     githubUrl: 'https://github.com/Ricky-Sama/Password-Gen-JS'
   },
   {
-    title: 'Work Day Scheduler',
+    title: 'Work-Day-Scheduler',
     description: "This is a simple online app that allows the user to add important events to a Work Day Scheduler.",
     demoUrl: 'https://ricky-sama.github.io/Work-Day-Scheduler/', 
     githubUrl: 'https://github.com/Ricky-Sama/Work-Day-Scheduler'
