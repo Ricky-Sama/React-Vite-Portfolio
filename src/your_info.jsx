@@ -1,7 +1,7 @@
 //////////////////////////////////////// ** HEADER / HERO SECTION **///////////////////////////////////////////
 
 
-const backgroundImageUrl = 'https://wallpapers.com/images/hd/hellas-basin-destiny-2-warmind-mbxsrj8ts3aaz383.webp';
+const backgroundImageUrl = 'https://images.wallpaperscraft.com/image/single/buildings_tower_spire_1110098_6144x4608.jpg';
 
 
 // First and last name
