@@ -50,7 +50,7 @@ const Navbar = () => {
               <li className="nav-item">
                 <a href="#Projects" className={`nav-link ${isMenuOpen ? 'not-blurred' : ''}`}>
 
-                  <span className='link-span'>Projects</span>
+                  <span className='link-span'>Portfolio</span>
                 </a>
               </li>
               <li className="nav-item">

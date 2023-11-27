@@ -15,7 +15,7 @@ const name = {
 
 // Display job title or skills
 const typeWriterText = [
-  'Programmer...',
+  'Full-Stack Developer...',
   'Likes to chill...',
   'Cool dude...'  
 ];
@@ -122,7 +122,7 @@ const projectData = [
     githubUrl: 'https://github.com/Ricky-Sama/Reel-Tracks'
   },
   {
-    title: 'Grab-My-Password',
+    title: 'Grab My Password',
     description: 'Store your password for your favorite websites',
     demoUrl: 'https://grab-my-password-23e7faf05060.herokuapp.com/', 
     githubUrl: 'https://github.com/Ricky-Sama/Grab-My-Password'
@@ -132,6 +132,24 @@ const projectData = [
     description: "This Tech Blog will allow users to publish their blog posts and comment on other developers' posts as well.",
     demoUrl: 'https://rs-tech-blog-ff26cfc66031.herokuapp.com/', 
     githubUrl: 'https://github.com/Ricky-Sama/Tech-Blog'
+  },
+  {
+    title: 'Note-Taker',
+    description: "This application is called Note Taker that can be used to write and save notes.",
+    demoUrl: 'https://easy-note-taker-application-39c0c4503c26.herokuapp.com/', 
+    githubUrl: 'https://github.com/Ricky-Sama/Note-Taker'
+  },
+  {
+    title: 'Password-Generator',
+    description: "This Password Generator will allow you to create a randomized password anywhere from 8 to 128 characters. ",
+    demoUrl: 'https://ricky-sama.github.io/Password-Gen-JS/', 
+    githubUrl: 'https://github.com/Ricky-Sama/Password-Gen-JS'
+  },
+  {
+    title: 'Work Day Scheduler',
+    description: "This is a simple online app that allows the user to add important events to a Work Day Scheduler.",
+    demoUrl: 'https://ricky-sama.github.io/Work-Day-Scheduler/', 
+    githubUrl: 'https://github.com/Ricky-Sama/Work-Day-Scheduler'
   },
   
 ];

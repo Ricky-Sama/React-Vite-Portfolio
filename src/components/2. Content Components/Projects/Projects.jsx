@@ -47,10 +47,10 @@ const Projects = () => {
       <div className="container">
         <div className="section-title">
           <h3 className="wow zoomIn" data-wow-delay=".2s">
-            Projects
+            Portfolio
           </h3>
           <h2 className="wow fadeInUp" data-wow-delay=".4s">
-            Lorem Ipsum
+            Applications and Projects
           </h2>
           <p className="wow fadeInUp" data-wow-delay=".6s">
           A skilled programmer can translate ideas into functional code, create efficient solutions to complex problems, and develop software applications that meet specific needs.
