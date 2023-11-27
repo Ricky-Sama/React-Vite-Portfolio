@@ -160,7 +160,7 @@ const projectData = [
 
 // Description about myself
 const aboutMeText = {
-  infotext: `Hi there, I'm Ricardo. Becoming a Full Stack MERN (MongoDB, Express.js, React, Node.js) developer is an exciting journey that involves mastering a comprehensive set of technologies to build dynamic and scalable web applications. By mastering these skills, a Full Stack MERN developer is equipped to create end-to-end web applications, from the user interface to the server-side logic and database interactions. Applying these skills will open up diverse opportunities in the rapidly evolving field of web development.
+  infotext: `Hi there, I'm Ricardo. I love to watch movies, cook, and exercise. However, a goal of mine was to become a Full Stack MERN (MongoDB, Express.js, React, Node.js) developer. It was an exciting journey that involved mastering a comprehensive set of technologies to build dynamic and scalable web applications. By mastering these skills, I'll be equipped to create end-to-end web applications, from the user interface to the server-side logic and database interactions. Applying these skills will open up diverse opportunities in the rapidly evolving field of web development.
     `,
   power_slogan: `Ctrl + Alt + Del the impossible.`,
 };
