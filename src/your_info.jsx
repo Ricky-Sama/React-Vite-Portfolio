@@ -9,8 +9,8 @@ const name = {
   firstname: 'Ricardo',
   lastname: 'Scuotto',
   
-// Enter as url a link where your resume can be downloaded ( dropbox, OneDrive, ect )
-  url: 'https://www.google.com',
+// Resume link
+  url: 'https://drive.google.com/file/d/18Rwwo6PTx5LuK9Bk2EyxUgxPsw_35u3B/view?usp=sharing',
 };
 
 // Display job title or skills
