@@ -171,9 +171,9 @@ const aboutMeText = {
 // Fill them here and it will automatically work. 
 
 const emailConfig = {
-  serviceID: 'service_XXXXXXX',
-  templateID: 'template_XXXXXXXX',
-  userID: 'XXXXXXXXXXXX',
+  serviceID: 'service_36kw6ok',
+  templateID: 'template_cmwyprd',
+  userID: 'WdJ6_yVUeO0yhAw0H',
 };
 
 export {
