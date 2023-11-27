@@ -53,7 +53,7 @@ const Projects = () => {
             Lorem Ipsum
           </h2>
           <p className="wow fadeInUp" data-wow-delay=".6s">
-            A diverse set of skills and technologies I have acquired to develop impactful solutions
+          A skilled programmer can translate ideas into functional code, create efficient solutions to complex problems, and develop software applications that meet specific needs.
           </p>
         </div>
         <Slider {...settings}>
