@@ -10,6 +10,7 @@ This portfolio website was designed using REACT+Vite.
 * [Application](#application)
 * [Contact-Me](#contact)
 * [Contributors](#contributors)
+* [Credits](#credits)
 * [Testing](#testing)
 * [License](#license)
 
