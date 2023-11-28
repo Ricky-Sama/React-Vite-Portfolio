@@ -24,7 +24,7 @@ const Achievement = () => {
           <div className="col-lg-10 offset-lg-1 col-md-12 col-12">
             <div className="title">
               <h2>"The only code that is bug-free is no code at all." - Wayne Dyksen</h2>
-              <p>BootCamp Statistics</p>
+              <p>Bootcamp Statistics</p>
             </div>
           </div>
         </div>
