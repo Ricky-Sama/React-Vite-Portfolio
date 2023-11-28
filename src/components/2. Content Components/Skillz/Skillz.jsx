@@ -18,7 +18,7 @@ const Skillz = () => {
                                 Skills
                             </h3>
                             <h2 className="wow fadeInUp" data-wow-delay=".4s">
-                            Exploring and Expanding My area of focus
+                            Exploring and Expanding My Area of Focus
                             </h2>
                             <p className="wow fadeInUp" data-wow-delay=".6s">
                             A diverse set of skills and technologies I have acquired to develop impactful solutions

@@ -20,7 +20,7 @@ const typeWriterText = [
   'Cool dude...'  
 ];
 
-// Social media profiles buttons
+// Social media profile buttons
 const socialProfiles = [
   {
     name: 'LinkedIn',
@@ -80,7 +80,7 @@ const categories = [
       //   title: 'Sketch'
       // },
      
-      
+
     ],
   },
   {
@@ -108,7 +108,7 @@ const categories = [
 // List of achiements in a number counter animation
 const achievements = [
   { word: 'dedication', value: 100, unit: '%' },
-  { word: 'Finished projects', value: 3, unit: '' },
+  { word: 'Finished projects', value: 2, unit: '' },
   { word: 'Experience', value: 6, unit: ' months' },
 ];
 
@@ -167,10 +167,7 @@ const aboutMeText = {
 };
 
 // For contact form: You need to make an account on emailjs.com
-// There you can choose a free tier ( 200 emails per month )
 // In your account settings you can see 'serviceID, templateID and userID. 
-// Fill them here and it will automatically work. 
-
 const emailConfig = {
   serviceID: 'service_36kw6ok',
   templateID: 'template_fdnq121',
